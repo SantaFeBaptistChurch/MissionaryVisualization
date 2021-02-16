@@ -1,0 +1,26 @@
+// Missionary location data
+// Gabriel Gutiérrez
+
+let mapimg;
+
+let clat = 0;
+let clon = 0;
+
+let ww = 1280;
+let hh = 800;
+
+let zoom = 1;
+let missionaries;
+
+function preload() {
+  
+}
+
+function setup() {
+
+}
+
+
+function draw() {
+
+}
